@@ -1,0 +1,15 @@
+.PostsPage {
+  
+}
+
+.list {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.item {
+  display: block;
+  &:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+  }
+}

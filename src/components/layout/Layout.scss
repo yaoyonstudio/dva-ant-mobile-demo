@@ -1,0 +1,17 @@
+.MainLayout {
+  width: 100%;
+  height: 100%;
+}
+
+.Main {
+  height: 100%;
+  padding-top: .44rem;
+  padding-bottom: .5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: #f4f4f4;
+}
+
+.ContentLayout {
+  padding-bottom: 0;
+}
