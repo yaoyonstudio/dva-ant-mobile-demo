@@ -12,3 +12,6 @@ html, body, :global(#root) {
   height: 100%;
 }
 
+.am-list-item .am-list-line .am-list-extra {
+  flex-basis: 50% !important;
+}
